@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(0deg, rgba(54, 54, 54, 0.171), rgba(145, 82, 0, 0.301)), url("8b0f4d10c672f6e6872cb6673bca34d7.jpg");
+}
+.heading{
+    width: 100%;
+    font-size: 24px;
+    box-shadow: 10px 10px 30px black;
+    margin: 0px;
+    padding-bottom:13px ;
+}
+
+.note{
+    color: black;
+    font-size: 12px;
+}
+
+.footer{
+    position:fixed;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+    background-color: rgb(48, 48, 48);
+    color: aliceblue;
+}
+
+canvas{
+    border-radius: 10px;
+    border: 3px solid black;
+    box-shadow: 0px 10px 20px black;
+
+}
